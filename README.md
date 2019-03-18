@@ -1,1 +1,2 @@
 # vue-ssr-test
+test
